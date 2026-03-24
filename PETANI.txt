@@ -1,7 +1,7 @@
 
 
 
-===========================================PLAYLIST FORSAT PRO============================================================
+===========================================PLAYLISTFORSATPRO============================================================
 
 
 =========================================== NASIONAL ===========================================
@@ -7838,11 +7838,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1763947935&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f287ee83af86d705312edf0fe4a4006a
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtc2VsZWN0LTE=&e=.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://tvsen7.aynascope.net/ssps2hd/index.m3u8?e=1763947936&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=52cf42e76b6056a97737169bc653e91d
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtc2VsZWN0LTI=&e=.m3u8
 
 
 
