@@ -6309,23 +6309,24 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=kXTvwAZKJmw
 
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="SPORTS", AL KASS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://i.ibb.co.com/m9WKtjB/kass2.png" group-title="SPORTS", AL KASS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://i.ibb.co.com/tw6nR1k/kass3.png" group-title="SPORTS", AL KASS 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png" group-title="SPORTS", AL KASS 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png" group-title="SPORTS", AL KASS 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://spstr.abntv.live/hls/psstream.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
 #EXTINF:-1 tvg-id="9c354ad6-3efc-4e4d-9cd8-3584bcc9c315" tvg-name="Fast 1 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIACfTgwYFPkOFcGC5CbAB9qPLd-oCMjMoId0jSfVQ_gDi4mZU95ytxPXf&s=10" group-title="SPORTS", FAST SPORTS 1
 #https://cdn3.skygo.mn/live/disk1/SPSPrime/STRM-CH2-1/SPSPrime.mpd
