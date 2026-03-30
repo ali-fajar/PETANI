@@ -423,6 +423,24 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="TIMNAS", Indonesia vs Bulgaria (V1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20992.drm?dev_kaki_09&t=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&h=8ca723e5eb48462632d05371c705132b0460b22af42f9bc1d5cae54b001f3985
+https://vid-zero-gelang.disini.workers.dev/20992.mpd?dev_kaki_09&t=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&h=8ca723e5eb48462632d05371c705132b0460b22af42f9bc1d5cae54b001f3985
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="TIMNAS", Final: Indonesia vs Bulgaria (V2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://zeroxxxvid.disini.workers.dev/20992.drm?exp=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&sign=9b6ac4a58071a530ea87257d4d7a9307294b80178cbd7db9842e946ac1205459
+https://zeroxxxvid.disini.workers.dev/20992.mpd?exp=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&sign=4b84fa7d952e788507ea2bee39602783283f07286d1057dd1c1792924da3711d
+
+
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://lh6.googleusercontent.com/proxy/Uzs49GJTHwr9hgXfcCDv_1K3OsPnhEuTfg6vjbkbngvAZfsYw_Fz4unFQ9j-kMJfT7rI-AXsjcRw17GYSRxIXiGNWWM5HVWdcbIpiLu6-fFSdPxh" group-title="LIVE EVENTS", RCTI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
