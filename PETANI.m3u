@@ -7408,7 +7408,8 @@ https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxBUaBKnPIJJ83Nb6wVDslt3KdtAUTXE-wx3qV7-o6Qix36heThHWgiZS&s=10" group-title="SPORTS", SKYSPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
+#https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/536.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1280px-Setanta_Sports.svg.png" group-title="SPORTS", SETANTA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7422,23 +7423,26 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/420650205807623.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="SPORTS", SELCUK SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor1/playlist.m3u8
+#https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor1/playlist.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2209.m3u8
 
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/420650205807623.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="SPORTS", SELCUK SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor2/playlist.m3u8
+#https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor2/playlist.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/420650205807623.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="SPORTS", SELCUK SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor3/playlist.m3u8
+#https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor3/playlist.m3u8
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/420650205807623.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="SPORTS", SELCUK SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor4/playlist.m3u8
+#https://dga1op10s1u3leo.ec876fd9240622.click/live/selcuktivibuspor4/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS", SKY LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
