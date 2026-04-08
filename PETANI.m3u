@@ -836,6 +836,12 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://liveplus.rctiplus.id/rcti2023.m3u8
 
+#EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE6" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
 #EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE2" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
