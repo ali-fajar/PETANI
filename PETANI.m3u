@@ -836,18 +836,18 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://liveplus.rctiplus.id/rcti2023.m3u8
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10", BACT ASIA
+#EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE2" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5igfsygmROoi2XiKKfUHEs5JUFFFylinIxpkvDuQZTkHzJaUD4kBrREY&s=10", BADMINTON YONEX
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BADMINTON ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HUB2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10" group-title="BADMINTON", BACT ASIA 3
-#http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg" group-title="BADMINTON", BACT ASIA 
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5igfsygmROoi2XiKKfUHEs5JUFFFylinIxpkvDuQZTkHzJaUD4kBrREY&s=10" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
