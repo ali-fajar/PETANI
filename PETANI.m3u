@@ -6241,11 +6241,12 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 #KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1768126246~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197585761~data=hdntl~hmac=2c07b6279091d9fd8f3a01cea82a5ca2ee978df4bb5b1080d3444a3b0a59f29d
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9m0j61NBKyWVuWw-PMYvjlX5IK4LY8sPXTUSx68gcY_HppDbVnotNV9Edg&s" group-title="LIVE VOLLY", LIVE MOJI 2
+#EXTINF:-1 tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/10/26/68fe4f53d7450-logo-livoli-divisi-1-2025_1265_711.jpg" group-title="LIVE VOLLY", VOLLEY 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm
+https://aspaltvpasti.top/11111/20240.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9m0j61NBKyWVuWw-PMYvjlX5IK4LY8sPXTUSx68gcY_HppDbVnotNV9Edg&s" group-title="LIVE VOLLY", LIVE MOJI 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
