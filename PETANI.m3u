@@ -7848,27 +7848,35 @@ https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 #https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS",TRUE PREMIER 4
-#https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3k9usk1749974218.png" group-title="SPORTS",TRUE SPORT 2
-#https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191752.ts
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w6w05k1749974207.png" group-title="SPORTS",TRUE SPORT 3
-#https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191751.ts
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7tprqt1749974198.png" group-title="SPORTS",TRUE SPORT 4
-#https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191755.ts
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
+https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fdsyh71749974190.png" group-title="SPORTS",TRUE SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 
 #EXTINF:-1  tvg-name="ASPORT" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",  group-title="SPORTS", A Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
