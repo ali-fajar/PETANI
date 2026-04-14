@@ -6376,22 +6376,22 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="ELTASPORT1" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/elta1.png" group-title="SPORTS", ELTA SPORT 1
-#https://rakyattv.my.id/kdw/stream.php/.m3u8?id=elta-sports-1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
 
 #EXTINF:-1 tvg-id="ELTASPORT2" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png" group-title="SPORTS", ELTA SPORT 2
-https://rakyattv.my.id/kdw/stream.php/.m3u8?id=elta-sports-2
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
 
 #EXTINF:-1 tvg-id="ELTASPORT3" tvg-name="ELTA Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYimbpAaYDCtocsgNyCvqpxRWBAgmxPHSmbSiBb6Seew&s" group-title="SPORTS", ELTA SPORT 3
-#https://rakyattv.my.id/kdw/stream.php/.m3u8?id=elta-sports-3
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
 
 #EXTINF:-1 tvg-id="VIDEOAND SPORTS" tvg-name="VIDEOLAND Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png" group-title="SPORTS", VIDEOLAND SPORT 
-#https://rakyattv.my.id/kdw/stream.php/.m3u8?id=videoland-sports-channel
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=videoland-sports-channel
 
 #EXTINF:-1 tvg-id="SPORTSCAST 1" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd1-480x320.png" group-title="SPORTS", SPORTCAST 1
-#https://rakyattv.my.id/kdw/stream.php/.m3u8?id=sportcast-sport-1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-1
 
 #EXTINF:-1 tvg-id="SPORTSCAST 2" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd2-480x320.png" group-title="SPORTS", SPORTCAST 2
-#https://rakyattv.my.id/kdw/stream.php/.m3u8?id=sportcast-sport-2
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-2
 
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT1" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 1
