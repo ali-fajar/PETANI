@@ -872,23 +872,38 @@ https://maling.pl/18249.mpd
 #EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE6" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 #EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE2" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BADMINTON ASIA
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE2" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png", THOMAS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
-https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png", THOMAS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 group-title="BADMINTON" tvg-id="Tv ok" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png", THOMAS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="BADMINTON" tvg-id="sukan" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png", THOMAS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg" group-title="BADMINTON", BACT ASIA 
-http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -913,44 +928,16 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu4&type=m3u8
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Ahnxu051anPszBQTEMJqBvz2CLE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/petronas-malaysia-open-2026-round-of-16-court-1-689602.jpg" group-title="BADMINTON", COURT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu5&type=m3u8
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5644N3ROTJYpBBQ_LlC-YcCSFg7MvIy4z2FJUQWHstvZlcn4lnbuJEY&s=10" group-title="BADMINTON", KING CUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-http://forsat.diskon.com/forsattv/youtube.php/.m3u8?id=JGD4ok1Py6o
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SedSAPWBOWXVXuQ69lyjOu-2Ay4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2025-round-of-32-court-1-5f0fa5.jpg" group-title="BADMINTON", COURT 1A
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18249&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 2B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18250&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu5&type=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 3C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18252&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 4C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18253&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 =============================================FIFA=================================================================
 
 
