@@ -852,21 +852,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18250.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18250.drm
 https://maling.pl/18250.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png" group-title="BADMINTON", THOMAS&UBER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18252.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18252.drm
 https://maling.pl/18252.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/43/2026/02/18/FotoJet138-436602936.png" group-title="BADMINTON", THOMAS&UBER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18249.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18249.drm
 https://maling.pl/18249.mpd
 
 #EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE6" tvg-logo="https://cdn.skor.id/uploads/member/images/news/thumbnail400/260203023844-774.jpg", BACT ASIA A1
@@ -5308,6 +5308,14 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
 https://maling.pl/205.mpd
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", UPCOMING PERSIB VS AREMA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
+https://maling.pl/19354.mpd
+
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
