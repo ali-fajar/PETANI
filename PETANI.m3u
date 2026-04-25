@@ -447,38 +447,6 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://liveplus.rctiplus.id/rcti2023.m3u8
 
-#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19687&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19687&type=dash
-
-#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19688&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19688&type=dash
-
-#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19686&type=drm
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19686&type=dash
-
-#EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=u171&type=m3u8
-#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
-
-
-#EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=u172&type=m3u8
-#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
 
 #EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -621,7 +589,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=drm
-https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=dash
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=dash
 
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/JELNRhdl8aDNvPbvdWk74HcBqyY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014314/9d432f.jpg" group-title="TIMNAS", ASEAN U17 Boys' Championship (LIVE ONLY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -629,7 +597,7 @@ https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21157&type=drm
-https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21157&type=dash
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21157&type=dash
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 3
@@ -5817,17 +5785,20 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.camel1.live
+#EXTVLCOPT:http-referrer=https://www.camel1.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.camel1.live
+#EXTVLCOPT:http-referrer=https://www.camel1.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.camel1.live
+#EXTVLCOPT:http-referrer=https://www.camel1.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls3&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 4
