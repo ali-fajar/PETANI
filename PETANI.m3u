@@ -5704,7 +5704,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=spa3&type=m3u8
 =======================================LIGA ITALIA==========================================================================
 
 #EXTINF:-1 group-title="LIGA ITALIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
-https://tv.casindo.org/hls/45/45.m3u8
+#https://tv.casindo.org/hls/45/45.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIGA ITALIA", ITALIA 1
@@ -6219,7 +6219,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="MotoGP", Trans 7 Digital
-http://103.66.62.83:8000/play/a00u/index.m3u8
+#http://103.66.62.83:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="MotoGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
