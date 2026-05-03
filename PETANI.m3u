@@ -5293,14 +5293,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
 #https://maling.pl/19354.mpd
 
-#EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", MALUT VS PERSIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", DEWA VS SEMEN
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebfee30bc79d56b26625c791ba302cc4:0eb8b0f46b58a70523b398706be11508
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1777737149~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c847ef63357c898a27d4e0f13406b59710c69853b774576b5759b2be2120bd16
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1777823138~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=1e6f9fd7bda52ce6c77ef321bbc1ae951829a80772f2f01441468d76d0d3023f
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
