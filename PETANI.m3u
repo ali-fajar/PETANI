@@ -5304,7 +5304,14 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=720p/file/dr
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebfee30bc79d56b26625c791ba302cc4:0eb8b0f46b58a70523b398706be11508
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1777823138~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1777897326~acl=%2fstream%2f19353%2fres%3d720p%2ffile%2fdrm
+
+
+#EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", PERSIB VS PSIM
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c0033c80c75abfe916080f368f2f35b:8145a32fe0459d0b704bbae731d42729
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1777897326~acl=%2fstream%2f19353%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=98cd1126e1a547c461e42b4d0a9deb84304da66763d9a98952d477983ac5c259
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
