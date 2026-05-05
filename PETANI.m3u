@@ -604,7 +604,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 
 
 
@@ -649,12 +649,12 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
 #https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/720p/file/drm/dash/stream.mpd?hdntl=exp=1763222910~acl=%2fstream%2f19679%2f720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=194748021~data=hdntl~hmac=95086321e5372c556c7cbf514cf8270935e78f545f826e48f381a39a472b98df
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", INDONESIA VS MYANMAR 12 DES 2025
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg", SEAGAMES 2
@@ -720,13 +720,13 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 1
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", TIMNAS U 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 2
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", TIMNAS U17 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
@@ -7181,23 +7181,23 @@ http://157.143.44.195/play/a0fw
 http://94.43.1.138:8081/setanta2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png" group-title="SPORTS", NOW 1HK
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4kmc941659623149.png" group-title="SPORTS", NOW 2HK
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ix8yxi1659623158.png" group-title="SPORTS", NOW 3HK
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS", HUB PRE1
-https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS", HUB PRE2
-https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="SPORTS", HUB PRE3
-https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#https://hls.iill.top/api/Hub-Premier-3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Ktv sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5k1C9ufH531IJYpz5uVdXAdT6L17SBBbkA&s", KTV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
