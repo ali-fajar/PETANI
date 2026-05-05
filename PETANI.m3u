@@ -7191,13 +7191,13 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS", HUB PRE1
-#https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS", HUB PRE2
-#https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="SPORTS", HUB PRE3
-#https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Ktv sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5k1C9ufH531IJYpz5uVdXAdT6L17SBBbkA&s", KTV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
