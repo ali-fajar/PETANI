@@ -1554,6 +1554,17 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
+#EXTINF:-1 channel-id="asharaq" tvg-id="GBBC4300002RW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDGTe3Us8lYjSER15wP05rjSwZUL0XlyBaTR21p7_0owRuMCdM5HZM9I&s=10" group-title="KNOWLEDGE" , Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="CINA TRAVEL" tvg-name="CINA TRAVEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoC6y0WXay82oH5xWVtbULds-lFLoP237hMw&s" group-title="KNOWLEDGE", CHINA TRAVEL
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/cb573d167b6c678a9dd43878d1f84382847b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d1cd209af3c419b8b1dfd034f25536b9f9bb565da9f0211c9a06b5756af6a4208a55b05a7700079d6a05a2b8d2fba74005cb95a391862c3ed47ad662f9ad253d72a39e8fc8b307b24455a9c5a43e6a64cb7f9e70b47d16ef0e0014cc62813fa83439fd501b384d652834ad373f4159a90a2828215d4e4ce598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d30d3dcacafb43a56139bf058a0df75846aaae7bc5cb67dac49ede5155798ec54d606dc0b7e2e29144fe275af60777a1d3053a635c44a85f56f868471983f4ca5baec21e97a437848e8b7c52cfbc4a8194be8feeffd804cc6582ebfd96285a1523250c824fad93699b788d23e8e55a617d5d54a19f62c184f257242d1ad5d71087455bf1f0a3b7f222778a6c1251ed20fe5e0667c37d2c5fed3ff6973923d8755dcb6573ab1665c06ff3ba25f9a29bd6073db4ccce0daa3cb8fb5984846fc30a1d5706a1fd255b372e2c809406075328971304b24f3495b966a7d011d4923881d5032e3e2a91bae206/146/896x504_1311200/index.m3u8
+
+#EXTINF:-1 channel-id="danger tv" tvg-id="GBBC4300002RW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTULmypdsMMPxZAo58t_97Wx2l7FoqMYryXw&s" group-title="KNOWLEDGE" , Danger Tv
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/V00000002/14400/HLS/playlist_2000k_20260422T140640.m3u8
+
+#EXTINF:-1 channel-id="dicovering" tvg-id="GBBC4300002RW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_--75V2Oi0w5onlw1xqGvYnt0cOaMhPBy-1EYYnegEg&s" group-title="KNOWLEDGE" , Discovering China
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/cb573d167b6c678a9dd43878d1f84382847b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d1cd209af3c419b8b1dfd034f25536b9f9bb565da9f0211c9a06b5756af6a4208a55b05a7700079d6a05a2b8d2fba74005cb95a391862c3ed47ad662f9ad253d72a39e8fc8b307b24455a9c5a43e6a64cb7f8e55c468e39a0b1014cc62745fa83439fd501e989d40e83458420a414cf92a18e804184e4ce598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d30d3dcacafb43a56139bf058a0df75846aaae7bc5cb67dac49ede5155798ec54d606dc0b7e2e29144fe275af60777a1d3053a635c44a85f56f868471983f4ca5baec21e97a437848e8b7c52cfbc4a8194be8feeffd804cc6582ebfd96285a1523250c824fad93699b788d23e8e55a617d5d54a19f62c184f257242d1ad5d71087455bf1f0a3b7f222778a6c1251ed20fe5e0667c37d2c5fed3ff6973923d8755dcb6573ab1665c06ff3ba25f9a29bd6073db4ccce0daa3cb8fb5984846fc30a1d5706a1fd255b372e2c80940607522894a5851a1303c76f5c9c9f1c2ab871c980d94e12084efb8c/17/640x360_1020801/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD
