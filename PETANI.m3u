@@ -5306,7 +5306,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19385/res=720p/file/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778428524~acl=%2fstream%2f205%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=a8cb27fbe63a323aa1f9821aaf92f1b4dc8a2fe586d6832aae0509ea3cff35ff
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778428524~acl=%2fstream%2f205%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=a8cb27fbe63a323aa1f9821aaf92f1b4dc8a2fe586d6832aae0509ea3cff35ff
 
 #EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", BALI UNITED VS BORNEO FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -5319,7 +5319,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c0033c80c75abfe916080f368f2f35b:8145a32fe0459d0b704bbae731d42729
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778341926~acl=%2fstream%2f19353%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=649e95f8be699000a528879d40f8729e8579d9e127127325a2c8f895f742a845
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778341926~acl=%2fstream%2f19353%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=649e95f8be699000a528879d40f8729e8579d9e127127325a2c8f895f742a845
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1
@@ -5351,50 +5351,50 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19353.drm
-https://maling.pl/19353.mpd
+#https://maling.pl/19353.mpd
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2B AREMA VS PERSEBAYA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
-https://maling.pl/19354.mpd
+#https://maling.pl/19354.mpd
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg", BRI 6
 #EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bri6&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bri6&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg", BRI 7
 #EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bri7&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bri7&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg", BRI 8
 #EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg", BRI 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop
 #EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg", BRI 10
 #EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live10&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live10&type=m3u8
 
 ==============================================UCL============================================================
 
