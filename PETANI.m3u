@@ -5298,11 +5298,12 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
 #https://maling.pl/205.mpd
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BHAYANGKARA VS MADURA UNITED
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIS VS DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3306c3bbb9e2bb33dded2230f5013bdd:d4ccb7c4f85b4d08b79bdc2a5e35d1e6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19385/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778514740~acl=%2fstream%2f19385%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=cc0ee36e3590dae83e20878be712e96325a7b7c4e952bfdb0175049679abcc39
+https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc3OTUzNzQ3NCwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3Nzg5MzI2NzQsIm5iZiI6MTc3ODkzMjY3NCwidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.TITAvXsus-Cdx1AoDhDm6knM27qqefGwg9bAM86iffc/live/tencent-1/68B012860000F2345CE1-p0_hd.m3u8
+
 
 #EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", PSIM VS MALUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -5310,11 +5311,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19385/res=720p/file/
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778428524~acl=%2fstream%2f205%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=a8cb27fbe63a323aa1f9821aaf92f1b4dc8a2fe586d6832aae0509ea3cff35ff
 
-#EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", PERSIK VS PERSIJA
+#EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", MALUT VS PERSITA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf6e7a8de12581fd3712110af6def756:bb4707446432edfd6b57f675e6d46218
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778934039~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=07a5513d96c9e900ee08ce54784b2f3ad70f5c40b5dea7c92d9707a0cc26ebeb
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778946826~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=5e6c53efa56082a1a9bcd51a98bd2051b908cc9d5adc84124ca58505764fd46c
 
 #EXTINF:0 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", PERSIS VS PERSEBAYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
