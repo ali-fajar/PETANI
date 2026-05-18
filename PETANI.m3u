@@ -959,6 +959,7 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-id="Masha" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/b00ca1d4-705a-403d-abaa-1d547e98d9c1.__CR0,0,1080,540_PT0_SX350_V1___.jpg", MASHA AND THE BEAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -968,7 +969,8 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1320,7 +1322,7 @@ https://archive.org/download/MurotalMR/023.mp3
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 tvg-id="ONE V+" tvg-name="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="ENTERTAINMENT", ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",Life & Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1635,7 +1637,8 @@ https://wildearth-xumo.amagi.tv/masterR216p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 #https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Bioskop Indonesia" tvg-logo="https://i.ibb.co.com/Yf7XNzn/bioskopid.png", BIOSKOP INDONESIA IN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1646,7 +1649,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mp
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="MOVIES",HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1979,7 +1982,8 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co.com/KwdwK84/wbtv.png" group-title="MOVIES", WARNER BROSS
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+#https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNNNveZurMCyTcvQTxoSCC3lWvxNDwBnhAQ&usqp=CAU" group-title="MOVIES", And TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2010,7 +2014,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO GROUP",HBO HITS INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2018,7 +2023,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO GROUP",HBO FAMILY INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2026,7 +2032,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO GROUP",HBO SIGNATURE INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2034,7 +2041,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="HBO GROUP", CINEMAX INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2042,7 +2050,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
