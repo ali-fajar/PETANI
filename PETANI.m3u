@@ -3075,24 +3075,29 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 ########################### INDIHOME ####################################################
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="Indihome",RCTI HD
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="Indihome",MNC TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indihome",GTV
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://starhits.id/frontend/assets/images-trending/INEWS-WHITE.png",iNews
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
+#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", Indosiar
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", Sctv
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg", Trans 7 
@@ -3110,14 +3115,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest.mpd
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png", ANTV
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://www.visionplus.id/images/repository/375/437375-SNAPSHOT-l.png", Inews
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id=">Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/310/692/png-transparent-kompas-tv-television-indonesia-news-kompas-television-angle-text-thumbnail.png" group-title="Indihome",Kompas TV HD 
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://www.visionplus.id/images/repository/383/437383-SNAPSHOT-l.png", TvOne
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Indihome", MDTV HD
@@ -3125,7 +3130,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
  
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png", Kplus Drama Korea
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", CITRA DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3173,28 +3179,36 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Indihome" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
+#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Al Jazeera
-https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/aljazeera/manifest.mpd
    
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Rodja TV
-https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", JTV
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bali TV
-https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MTATV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mntatv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Nusantara
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ATV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -3204,10 +3218,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/curiosity/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Tawaf TV
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/tawaftv/manifest.mpd
   
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Indihome" ,SINPO TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.pngg", Fashion TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -3216,19 +3232,23 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MyKidz
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", TV5Monde
-https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
    
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", News Asia
-https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bloomberg
-https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -3255,7 +3275,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest_wuseetv.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
-https://cdn10jtedge.indihometv.com/atm/mpd-vo/indikids/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/mpd-vo/indikids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", SHENZEN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
