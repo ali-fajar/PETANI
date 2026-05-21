@@ -7958,12 +7958,12 @@ https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
-https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
+#https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3k9usk1749974218.png" group-title="SPORTS",TRUE SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w6w05k1749974207.png" group-title="SPORTS",TRUE SPORT 3
