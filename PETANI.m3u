@@ -3120,6 +3120,9 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
+#EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg", Trans 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
