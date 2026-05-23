@@ -6184,6 +6184,11 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uqpxvq1483296219.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", PTV SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779358086&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6f0fac07b047ef06405d239184f31ad6
+
+
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png", SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
