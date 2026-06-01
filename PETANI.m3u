@@ -585,7 +585,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 
 ==========================================TIMNAS =================================================================
 
-#EXTINF:-1 group-logo="" tvg-logo=". https://thumbor.prod.vidiocdn.com/C3F-eZr7qSIH8poESl3r-wrNWRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105750/5ad348.jpg" group-title="TIMNAS", VIETNAM VS TIMOR LESTE
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/C3F-eZr7qSIH8poESl3r-wrNWRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105750/5ad348.jpg" group-title="TIMNAS", VIETNAM VS TIMOR LESTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
