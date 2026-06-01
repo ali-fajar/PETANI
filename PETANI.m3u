@@ -585,22 +585,19 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 
 ==========================================TIMNAS =================================================================
 
-#EXTINF:-1 group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPjqIknOCzQsmIk49OsOz15sxKbDUYp0aJC_CNo4c5O_uPSVkh6b2T9oC&s=10" group-title="TIMNAS", Indonesia - ASEAN U17 Boys' Championship (LIVE ONLY)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo=". https://thumbor.prod.vidiocdn.com/C3F-eZr7qSIH8poESl3r-wrNWRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105750/5ad348.jpg" group-title="TIMNAS", VIETNAM VS TIMOR LESTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=drm
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21165&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21593&type=drm
+https://tvratu.my.id/vid/index.mpd?id=21593&type=dash
 
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/JELNRhdl8aDNvPbvdWk74HcBqyY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014314/9d432f.jpg" group-title="TIMNAS", ASEAN U17 Boys' Championship (LIVE ONLY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/ngJNsKO4NFvt50A9dgH8hOhfk-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105751/4a8e94.jpg" group-title="TIMNAS", INDONESIA VS MYANMAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21157&type=drm
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=21157&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=dash
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 3
@@ -608,19 +605,6 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
-
-
-
-#EXTINF:-1 tvg-uid="f50b38f58155b0b36e04b186051a418d" data-source="Raw Github" group-title="TIMNAS" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
-#https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 
 
