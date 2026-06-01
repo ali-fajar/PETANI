@@ -631,7 +631,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=189a9d3200b9d89b77ebc2eae1106d27:8bf201ee86ecb7754874c63a4cde7edb
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780323805~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=7ace3b983d0ccef62d801ef78432fb66bfd870bc44e53b668a9851e62b329609
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780329822~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c08a3eaa94e654f298086ceb8043769474c9fe1e7a499b531940ae35540631ce
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
