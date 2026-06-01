@@ -628,10 +628,10 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/ngJNsKO4NFvt50A9dgH8hOhfk-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105751/4a8e94.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=189a9d3200b9d89b77ebc2eae1106d27:8bf201ee86ecb7754874c63a4cde7edb
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780329822~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c08a3eaa94e654f298086ceb8043769474c9fe1e7a499b531940ae35540631ce
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780330683~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=9778294f035e81e427743cd73bedf4dad95c7248eecb443b4c88cd6323dc8109
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
