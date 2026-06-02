@@ -705,13 +705,13 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", TIMNAS U 17
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/BtloAzh-O_g07HihiidUsiV-9UI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21593/asean-u19-boys-bank-sumut-championship-4d77b1.jpg", U 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", TIMNAS U17 2
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/BtloAzh-O_g07HihiidUsiV-9UI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21593/asean-u19-boys-bank-sumut-championship-4d77b1.jpg", TIMNAS U19 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
