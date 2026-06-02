@@ -711,7 +711,7 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/BtloAzh-O_g07HihiidUsiV-9UI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21593/asean-u19-boys-bank-sumut-championship-4d77b1.jpg", TIMNAS U19 2
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/BtloAzh-O_g07HihiidUsiV-9UI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21593/asean-u19-boys-bank-sumut-championship-4d77b1.jpg",U19 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
@@ -747,20 +747,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://www.emirates247.com/polopoly_fs/1.695931.1671728119!/image/image.jpg", FIFA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib1NGaUZnY2dhaHQvb3QvbHh3TE9Ic3VmR2FYYnlFY004anRQQ3M9/master.m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://www.emirates247.com/polopoly_fs/1.695931.1671728119!/image/image.jpg", FIFA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5ZnpOdHpheUJzZTNMSjdxWEhRVTNnOHVoY0oxbE5GMDFmNHJnPT0/master.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://www.emirates247.com/polopoly_fs/1.695931.1671728119!/image/image.jpg", FIFA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb2VieWxvZGdPa3VvTTB5NXJScGVscEJXTDJwNitzN1ZiRkVUZz09/master.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibIv_FXebJNcNTRtQo44GkvRdRbfUAJPiN4ZmgMj-dkAJst2MhaxhyOs&s=10" group-title="TIMNAS", THAILAND VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
