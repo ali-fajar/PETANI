@@ -631,8 +631,8 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/t2H2Xf_EEHjFgfQVfsnqB4I-lew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113119/8d6054.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", TIMOR LESTE VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf9d76ca495514e2633e1f7c6a42cf6d:0ee3334fffe011c89074011821d82ab7
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780421965~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=7ece4a857d5b002e814e58ddc469ec2c93d9c6f390cbf93ea8423f1aa65b7b49
+#KODIPROP:inputstream.adaptive.license_key=d4980f00e743c8667e87d41b1dfdd5ab:d49ca38180f6b0cbda12307b6644abca
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780589271~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=ad00e80bc587a2641c7438d7f5d6c215380fe40428a6e3e3987fd705439b994e
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
