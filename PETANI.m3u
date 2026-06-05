@@ -6101,6 +6101,18 @@ http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", TSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780495065&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10dbb0908b5515dec860bbca9d40fc09
+
+#EXTINF:0 tvg-logo="https://static.wikitide.net/avidwiki/thumb/b/bb/Bangladesh_Television_%282010s%29.png/300px-Bangladesh_Television_%282010s%29.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", BTV NAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780495065&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10dbb0908b5515dec860bbca9d40fc09
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50iUhH3Lfq3Pq-9ikBeEfx5y8dSTVD6W2SEczzbDb0NQvmQribeZsGn0&s=10" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", SOMOY NEWS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1780495064&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1abb4042aa134001fb9f31d43b5ad871
+
 
 #EXTINF:0 tvg-logo="https://macaupostdaily.com/Public/Upload/article/month_2308/64d536347dac5.jpg" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", TDM MACAU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
