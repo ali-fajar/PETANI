@@ -593,12 +593,11 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21593&type=drm
 #https://tvratu.my.id/vid/index.mpd?id=21593&type=dash
 
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/ngJNsKO4NFvt50A9dgH8hOhfk-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105751/4a8e94.jpg" group-title="TIMNAS", INDONESIA VS MYANMAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=drm
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=dash
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" group-title="TIMNAS", INDONESIA VS OMAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4980f00e743c8667e87d41b1dfdd5ab:d49ca38180f6b0cbda12307b6644abca
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1780589271~acl=%2fstream%2f21593%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=ad00e80bc587a2641c7438d7f5d6c215380fe40428a6e3e3987fd705439b994e
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 3
