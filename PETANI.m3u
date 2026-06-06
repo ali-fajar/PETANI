@@ -6417,22 +6417,22 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="ELTASPORT1" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/elta1.png" group-title="SPORTS", ELTA SPORT 1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 
 #EXTINF:-1 tvg-id="ELTASPORT2" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png" group-title="SPORTS", ELTA SPORT 2
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
 
 #EXTINF:-1 tvg-id="ELTASPORT3" tvg-name="ELTA Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYimbpAaYDCtocsgNyCvqpxRWBAgmxPHSmbSiBb6Seew&s" group-title="SPORTS", ELTA SPORT 3
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
 
 #EXTINF:-1 tvg-id="VIDEOAND SPORTS" tvg-name="VIDEOLAND Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png" group-title="SPORTS", VIDEOLAND SPORT 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=videoland-sports-channel
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-sports-channel
 
 #EXTINF:-1 tvg-id="SPORTSCAST 1" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd1-480x320.png" group-title="SPORTS", SPORTCAST 1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-1
 
 #EXTINF:-1 tvg-id="SPORTSCAST 2" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd2-480x320.png" group-title="SPORTS", SPORTCAST 2
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=sportcast-sport-2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-2
 
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT1" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 1
@@ -6727,46 +6727,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=cosmote3&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/connect/index.m3u8?channel=cosmote4&type=m3u8
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SPORTS",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6685&type=drm
-#https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=champ1&type=m3u8
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SPORTS",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6686&type=drm
-#https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=dash
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=champ2&type=m3u8
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="SPORTS",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=champ3&type=m3u8
-
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SPORTS",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9182&type=drm
-#https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
-
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9183&type=drm
-#https://bitter-boa-67.deno.dev/play.mpd?id=9184&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVR_o37afXn93MhkJJ7fIVVgPddw4DbtJA3RA8NSprlhJO2tA9YkUZnOXV&s=10" group-title="SPORTS" , CBS NETWORK
