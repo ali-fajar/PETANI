@@ -6036,18 +6036,18 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal2&type=m3u8
 
 #EXTINF:0 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2026/06/Zee-Entertainment-launches-Unite8-Sports.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://103.204.43.87:8080/live/1/1/266.m3u8
+#http://103.204.43.87:8080/live/1/1/266.m3u8
 
 #EXTINF:0 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2026/06/Zee-Entertainment-launches-Unite8-Sports.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://66.102.126.10:8000/play/a022/index.m3u8
+#http://66.102.126.10:8000/play/a022/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8r7yo11655540169.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksg9aF_4Z9PpYd2RlahU6f-VJX5GDcAeAVyNXwb5Opg&s=10" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksg9aF_4Z9PpYd2RlahU6f-VJX5GDcAeAVyNXwb5Opg&s=10" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", DSPORT ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
@@ -6127,7 +6127,7 @@ https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780495065&u=78be6644-0a65-48
 
 #EXTINF:0 tvg-logo="https://static.wikitide.net/avidwiki/thumb/b/bb/Bangladesh_Television_%282010s%29.png/300px-Bangladesh_Television_%282010s%29.png" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", BTV NAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780495065&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10dbb0908b5515dec860bbca9d40fc09
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50iUhH3Lfq3Pq-9ikBeEfx5y8dSTVD6W2SEczzbDb0NQvmQribeZsGn0&s=10" group-title="World Cup 26™" tvg-id="001" tvg-name="016-LABURATV", SOMOY NEWS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
