@@ -791,11 +791,11 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/R27TZMJDe6Y-jgxzk1aBaB_ocsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127797/8245e9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", THAILAND VS KAMBOJA U19
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/jtBx3b5EXa9-Ruh7gdBJsKQWX8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA VS AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3072d17fa505442063800736d86fb07:68ce34f632a0d110e9ea6fad1b10e7a3
-https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4MTc3NDY4MCwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3ODExNjk4ODAsIm5iZiI6MTc4MTE2OTg4MCwidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.BLYuDWKdtDl0Njud2UIAnB96nbeTeIwOR_M1qmm1TtU/live/tencent-1/68B012860000F2345CE1-p0_sd.m3u8
+#KODIPROP:inputstream.adaptive.license_key=1e5fe8071c08c31412d862399259f61b:d5db30367095916cd1f2c169130d9eb0
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21633/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1781193704~acl=%2fstream%2f21633%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=3fa9344a04366f55671c336139416fb6ae91133837ade44aaf75f963a2e5a375
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
