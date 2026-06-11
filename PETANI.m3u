@@ -712,7 +712,7 @@ http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://27.124.71.27/T-Sports/index.m3u8
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikitide.net/avidwiki/thumb/b/bb/Bangladesh_Television_%282010s%29.png/300px-Bangladesh_Television_%282010s%29.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", BTV NAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
