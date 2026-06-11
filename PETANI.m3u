@@ -608,17 +608,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn4.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=0PkjYGqWzBNMkKzZVIcF3Q&expires=1781202034
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Mexico vs South Africa (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="PIALA DUNIA",[FIFA World Cup] Mexico vs South Africa
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Mexico vs South Africa (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="PIALA DUNIA",[FIFA World Cup] Mexico vs South Africa SD
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.47/hls/zazazaedd.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
 #EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Mexico vs South Africa HD (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="PIALA DUNIA",[FIFA World Cup] Mexico vs South Africa HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
 
 
