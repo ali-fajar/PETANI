@@ -607,7 +607,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn4.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=0PkjYGqWzBNMkKzZVIcF3Q&expires=1781202034
+#https://cdn4.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=0PkjYGqWzBNMkKzZVIcF3Q&expires=1781202034
 
 #EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bosnia vs kanada " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BOSNIA VS KANADA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
@@ -649,9 +649,12 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIACfTgwYFPkOFcGC5CbAB9qPLd-oCMjMoId0jSfVQ_gDi4mZU95ytxPXf&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", FAST SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#http://5esdg90l.alfalt.fun/iptv/ZQBKBVWT57B5HX/30200/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZchlbwd7eW6h2UkXAO-alGD74Q1LHy0yG06mzVkxXb05GrZ8KdRPjDxo&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ZEE BANGLA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://ovio.am/storage/uploads/channels/j9vOys5d5F9I3z9YIRTBmDauyuMEfhIygrWo8cNv.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", FAST SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -731,13 +734,6 @@ http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikitide.net/avidwiki/thumb/b/bb/Bangladesh_Television_%282010s%29.png/300px-Bangladesh_Television_%282010s%29.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", BTV NAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50iUhH3Lfq3Pq-9ikBeEfx5y8dSTVD6W2SEczzbDb0NQvmQribeZsGn0&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SOMOY NEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="PIALA DUNIA",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -770,28 +766,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 
-
-#EXTINF:0 tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", VTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-
-#EXTINF:0 tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", VTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-#EXTINF:0 tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", VTV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-#EXTINF:0 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", VTV 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-
-#EXTINF:0 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", VTV 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 ==========================================TIMNAS =================================================================
 
