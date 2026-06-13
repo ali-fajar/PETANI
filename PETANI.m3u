@@ -584,20 +584,20 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg/medium" group-title="PIALA DUNIA",TSN 1 BOSNIA VS KANADA1
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg/medium" group-title="PIALA DUNIA",TSN 1 QATAR VS SWISS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg/medium" group-title="PIALA DUNIA",TSN 4 BOSNIA VS KANADA2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg/medium" group-title="PIALA DUNIA",TSN 4 BRASIL VS MAROKO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg/medium" group-title="PIALA DUNIA",TSN 3 KANADA VS BOSNIA
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg/medium" group-title="PIALA DUNIA",TSN 3 QATAR VS SWISS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
@@ -811,11 +811,11 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21593/res=720
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/jtBx3b5EXa9-Ruh7gdBJsKQWX8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127798/dd6ed9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA VS AUSTRALIA
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/V2QCJ_ES_-Wl4tOD9LYMJfeMIuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132027/3b10d9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", KAMBOJA VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e5fe8071c08c31412d862399259f61b:d5db30367095916cd1f2c169130d9eb0
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21633/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1781193704~acl=%2fstream%2f21633%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=3fa9344a04366f55671c336139416fb6ae91133837ade44aaf75f963a2e5a375
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21633/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1781357933~acl=%2fstream%2f21633%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=86fdecb08b680c2780ea65d24a831f6dca24fb568dea0af842064a3ed8d5e3d6
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
