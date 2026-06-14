@@ -584,7 +584,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg/medium" group-title="PIALA DUNIA",FOX 11 JERMAN VS CURACAO 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg/medium" group-title="PIALA DUNIA",FOX 11 PANTAI GADING VS EKUADOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
@@ -609,25 +609,25 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://cdn4.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=0PkjYGqWzBNMkKzZVIcF3Q&expires=1781202034
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] JERMAN VS CURACAO SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PANTAI GADING VS EKUADOR SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] JERMAN VS CURACAO HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PANTAI GADING VS EKUADOR HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  BELANDA VS JEPANG SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  SWEDIA VS TUNISIA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BELANDA VS JEPANG HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SWEDIA VS TUNISIA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
