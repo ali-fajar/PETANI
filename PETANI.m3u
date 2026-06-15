@@ -597,11 +597,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg/medium" group-title="PIALA DUNIA",TSN 3 QATAR VS SWISS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg/medium" group-title="PIALA DUNIA", BELGIA VS MESIR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="Live.Event.us" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zzcn9j1775058318.jpg/medium" group-title="PIALA DUNIA",Mexico vs South Africa (FSPRTS)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
@@ -615,7 +613,7 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS VARDE HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS VARDE HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
