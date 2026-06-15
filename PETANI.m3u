@@ -741,15 +741,17 @@ http://107.150.60.122/live/cctv5p.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", GO3 SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
+#http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
 
-#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/14ktq21723836456.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", GO3 SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWe_KIY6yur5PLaKnz1rQNL4OBJbaUz07qOtCr-msxVzVtbKVpWS7lZ3Z&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", CIGNAL TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/clcnt51723874834.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", GO3 SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
+#http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
