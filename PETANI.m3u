@@ -648,14 +648,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+#https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 tvg-name="TELEMUNDO FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PIALA DUNIA",TELEMUNDO FHD
+
+#EXTINF:-1 tvg-name="DSPORT+ FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png" group-title="PIALA DUNIA",DSPORT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZchlbwd7eW6h2UkXAO-alGD74Q1LHy0yG06mzVkxXb05GrZ8KdRPjDxo&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ZEE BANGLA
@@ -721,11 +723,6 @@ http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana1&type=m3u8
 
-#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uqpxvq1483296219.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PTV SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=a6HUwhizSH86gCvERdZ4hQ&expires=1781204425
 
 
 #EXTINF:0 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", CCTV 5
@@ -736,9 +733,6 @@ http://107.150.60.122/live/cctv5hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5p.m3u8
 
-#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", GO3 SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWe_KIY6yur5PLaKnz1rQNL4OBJbaUz07qOtCr-msxVzVtbKVpWS7lZ3Z&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", CIGNAL TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
