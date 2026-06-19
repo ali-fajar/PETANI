@@ -605,7 +605,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1120000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cbpzq61775058337.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BRASIL VS HAITI SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
