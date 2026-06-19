@@ -588,7 +588,8 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg/medium" group-title="PIALA DUNIA", AMERIKA VS AUSTRALIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -782,8 +783,12 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtUVGg94EdqSLnbZZKV1T44YvWcrxhKothk6ZZHmVL1_3nHYKIBJjjslk&s=10" group-title="PIALA DUNIA",VTV3
-#https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI SPORT
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 ==========================================TIMNAS =================================================================
 
