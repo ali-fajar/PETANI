@@ -584,47 +584,47 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg/medium" group-title="PIALA DUNIA", CEKO VS AFRIKA 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg/medium" group-title="PIALA DUNIA", AMERIKA VS AUSTRALIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg/medium" group-title="PIALA DUNIA", CEKO VS AFRIKA 2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg/medium" group-title="PIALA DUNIA", AMERIKA VS AUSTRALIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ifij8n1781600006.jpg/medium" group-title="PIALA DUNIA", SWISS VS BOSNIA 1
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg/medium" group-title="PIALA DUNIA", SKOTLANDIA VS MAROKO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ifij8n1781600006.jpg/medium" group-title="PIALA DUNIA", SWISS VS BOSNIA 2
+#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg/medium" group-title="PIALA DUNIA", SKOTLANDIA VS MAROKO 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vcjp4j1775058335.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] KANADA VS QATAR SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cbpzq61775058337.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BRASIL VS HAITI SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vcjp4j1775058335.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] KANADA VS QATAR HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cbpzq61775058337.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BRASIL VS HAITI HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  MEXICO VS KOREA SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/qvkiqg1781600007.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  TURKI VS PARAGUAY SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] MEXICO VS KOREA HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/qvkiqg1781600007.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] TURKI VS PARAGUAY HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -639,7 +639,7 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksg9aF_4Z9PpYd2RlahU6f-VJX5GDcAeAVyNXwb5Opg&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", DSPORT ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
@@ -656,8 +656,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=r:ddfd7ca653d6f35543d8edb3c688e20f
+#http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZchlbwd7eW6h2UkXAO-alGD74Q1LHy0yG06mzVkxXb05GrZ8KdRPjDxo&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ZEE BANGLA
