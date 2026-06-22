@@ -680,16 +680,18 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+https://ex.kooran99.cfd/uoorz2_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index_3.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png", SPORZA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://bksspb02.beeline.tv/4jdzhjei5aaaaaaaacrgifdaaaaaaaaaaaastcrgybomuazg/0004350/live/d/channel319.isml/manifest-stb.mpd?bk-teardown=1
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXKsZrgHyrdsMRvP0I1URDgl4v3xyBRlcQDj0-uz9g6XbCDvC3tBsGeg&s=10", JOJ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
