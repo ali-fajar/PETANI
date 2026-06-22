@@ -683,9 +683,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 https://ex.kooran99.cfd/uoorz2_720/index.m3u8
 
-#EXTINF:0 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 2
+#EXTINF:0 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", BIOSCOPE+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com/
 https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index_3.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png", SPORZA
