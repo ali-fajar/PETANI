@@ -636,7 +636,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8r7yo11655540169.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
@@ -660,23 +659,24 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 tvg-name="DSPORT+ FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png" group-title="PIALA DUNIA",DSPORT+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl4tmlXL3aLDj0jmt18-VRgwRYCJxm-ie2IAbdHRqNtA&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", DSPORT ARG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnKjVwCRJa0h242CDVuBm3zUIAlVvuavQzJkFP6D3Hy8XLZfCH5afqVir&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", RTBGO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnKjVwCRJa0h242CDVuBm3zUIAlVvuavQzJkFP6D3Hy8XLZfCH5afqVir&s=10" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", RTBGO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#https://cors-everywhere-wc8b4.ondigitalocean.app/https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", UNITE8 SPORT 1
@@ -729,20 +729,6 @@ http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="PIALA DUNIA",Toffee 1
-http://sm-monirul.top/tof/live/gervsivo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="PIALA DUNIA",Toffee 2
-http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="PIALA DUNIA",Toffee 3
-http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="PIALA DUNIA",Toffee 4
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="PIALA DUNIA",Toffee 5
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
 
 #EXTINF:0 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", CCTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
