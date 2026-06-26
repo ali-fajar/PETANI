@@ -686,9 +686,9 @@ https://ex.kooran99.cfd/uoorz2_720/index.m3u8
 https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index_3.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png", SPORZA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://bksspb02.beeline.tv/4jdzhjei5aaaaaaaacrgifdaaaaaaaaaaaastcrgybomuazg/0004350/live/d/channel319.isml/manifest-stb.mpd?bk-teardown=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXKsZrgHyrdsMRvP0I1URDgl4v3xyBRlcQDj0-uz9g6XbCDvC3tBsGeg&s=10", JOJ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
