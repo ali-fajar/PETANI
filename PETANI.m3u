@@ -590,19 +590,19 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/duwfkg1775058387.jpg/small" group-title="PIALA DUNIA", SENEGAL VS IRAK 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 
 
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4no2lo1775058385.jpg/small" group-title="PIALA DUNIA", JEPANG VS SWEDIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg/medium" group-title="PIALA DUNIA", URUGUAY VS SPANYOL 2
 #KODIPROP:inputstream=inputstream.adaptive
