@@ -604,7 +604,7 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ehmyj71781600005.jpg/small" group-title="PIALA DUNIA", TUNISIA VS BELANDA 2
+#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg/medium" group-title="PIALA DUNIA", URUGUAY VS SPANYOL 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
