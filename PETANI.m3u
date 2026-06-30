@@ -605,16 +605,16 @@ https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA", PANTAI GADING VS NORWEGIA HD
-#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/US/NFLHD1/index.m3u8
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA", MEXICOVS EKUADOR 2
-#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/US/NFLHD1/index.m3u8
+https://obstreamx.click/live/yq97gcrutx.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PANTAI GADING VS NORWEGIA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
