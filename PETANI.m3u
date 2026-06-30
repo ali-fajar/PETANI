@@ -585,64 +585,64 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0tu18z1782546611.jpg/medium" group-title="PIALA DUNIA", BRASIL VS JEPANG 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA", PANTAI GADING VS NORWEGIA 1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d9lzb81782546619.jpg/medium" group-title="PIALA DUNIA", JERMAN VS PARAGUAY 2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SWEDIA 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0tu18z1782546611.jpg/medium" group-title="PIALA DUNIA", BRASIL VS JEPANG 1
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA", PANTAI GADING VS NORWEGIA HD
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://instreams.pro/US/NFLHD1/index.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d9lzb81782546619.jpg/medium" group-title="PIALA DUNIA", JERMAN VS PARAGUAY 2
+#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA", MEXICOVS EKUADOR 2
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://instreams.pro/US/NFLHD1/index.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0tu18z1782546611.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BRASIL VS JEPANG SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PANTAI GADING VS NORWEGIA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d9lzb81782546619.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] JERMAN VS PARAGUAY HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS SWEDIA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/m4o9wh1782546615.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  BELANDA VS MAROKO SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  MEXICO VS EKUADOR SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/m4o9wh1782546615.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BELANDA VS MAROKO HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS SWEDIA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/yane951775058362.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 1 Mesir vs Iran
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 1 Perancis vs Swedia
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/m4o9wh1782546615.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 2 Belanda vs Maroko
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 2 Mexico vs Ekuador
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
