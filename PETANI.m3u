@@ -598,6 +598,11 @@ https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 
+#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SWEDIA CAM2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://www.camel1.live
+#EXTVLCOPT:http-referrer=https://www.camel1.live/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f6fdgp1782546617.jpg/medium" group-title="PIALA DUNIA", PANTAI GADING VS NORWEGIA HD
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
