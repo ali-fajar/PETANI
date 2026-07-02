@@ -592,17 +592,17 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS AUSTRIA CTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS AUSTRIA FOX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-#https://us.01anutv.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE4MC4yNDcuNC4yMjAiLCJleHAiOjE3ODI5OTgxODN9._QILy2IZ830Lwm6-_Xm_FOUI2mF_fxwEfiEQQzhzd10/https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS AUSTRIA TSN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS AUSTRIA FOX26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-#https://us.02anutv.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE4MC4yNDcuNC4yMjAiLCJleHAiOjE3ODMwMDAyNDR9.YjJ8cIqdBtKJxkdcHnRJ_hnieTQ-NxBMPIYjgYKPtbs/https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS AUSTRIA 1
@@ -714,9 +714,9 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png", SPORZA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#https://edge2caster.pro/hls/eJmauBDCIf.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXKsZrgHyrdsMRvP0I1URDgl4v3xyBRlcQDj0-uz9g6XbCDvC3tBsGeg&s=10", JOJ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
