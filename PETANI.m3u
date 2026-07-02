@@ -598,43 +598,50 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://us.01anutv.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE4MC4yNDcuNC4yMjAiLCJleHAiOjE3ODI5OTgxODN9._QILy2IZ830Lwm6-_Xm_FOUI2mF_fxwEfiEQQzhzd10/https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/25hrqr1782634399.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS KONGO 1
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS AUSTRIA TSN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://us.02anutv.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE4MC4yNDcuNC4yMjAiLCJleHAiOjE3ODMwMDAyNDR9.YjJ8cIqdBtKJxkdcHnRJ_hnieTQ-NxBMPIYjgYKPtbs/https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6gottb1782634403.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS AUSTRIA 1
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ajtqti1782634399.jpg/medium" group-title="PIALA DUNIA", BELGIA VS SENEGAL 2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/25hrqr1782634399.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS KONGO CAM2
+#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA CAM2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.camel1.live
 #EXTVLCOPT:http-referrer=https://www.camel1.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ajtqti1782634399.jpg/medium" group-title="PIALA DUNIA", BELGIA VS SENEGAL HD
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS AUSTRIA HD
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA", MEXICOVS EKUADOR 2
+#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 2
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/yq97gcrutx.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/25hrqr1782634399.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] INGGRIS VS KONGO SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS AUSTRIA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ajtqti1782634399.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] BELGIA VS SENEGAL HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PORTUGAL VS KROASIA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
