@@ -633,7 +633,7 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/yq97gcrutx.m3u8
+#https://obstreamx.click/live/yq97gcrutx.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS AUSTRIA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
@@ -664,13 +664,13 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/yq97gcrutx.m3u8
+#https://obstreamx.click/live/yq97gcrutx.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 2 Mexico vs Ekuador
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/esx51jdn9y.m3u8
+#https://obstreamx.click/live/esx51jdn9y.m3u8
 
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8r7yo11655540169.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
