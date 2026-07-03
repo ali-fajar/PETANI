@@ -606,10 +606,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 
 
 #EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS VERDE 1
-#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
+#EXTVLCOPT:http-referrer=https://instream.click/
+#EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/US/NFLHD1/index.m3u8
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS VERDE 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
@@ -624,10 +624,10 @@ https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR HD
-#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
+#EXTVLCOPT:http-referrer=https://instream.click/
+#EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/US/NFLHD1/index.m3u8
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 2
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
