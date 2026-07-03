@@ -585,7 +585,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PORTUGAL VS KROASIA PV
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS VERDE PV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
@@ -598,32 +598,32 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PORTUGAL VS KROASIA FOX26
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS VERDE FOX26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS VERDE 1
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://instreams.pro/US/NFLHD1/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS VERDE 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA CAM2
+#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR CAM2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.camel1.live
 #EXTVLCOPT:http-referrer=https://www.camel1.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA HD
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR HD
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -635,13 +635,13 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://obstreamx.click/live/yq97gcrutx.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS AUSTRIA SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] AUSTRALIA VS MESIR SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PORTUGAL VS KROASIA HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] ARGENTINA VS VERDE HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -653,7 +653,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vlynac1782634402.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SWISS VS ALJAZAIR HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b6sdmo1782634401.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] KOLOMBIA VS GHANA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
