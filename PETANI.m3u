@@ -694,7 +694,10 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
 
 #EXTINF:-1 tvg-chno="56" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="PIALA DUNIA",FOX SPORTS 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/fs1-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="PIALA DUNIA",FOX SPORTS 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
@@ -707,7 +710,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="PIALA DUNIA",TSN1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="PIALA DUNIA",TSN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
@@ -782,17 +788,23 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI
-http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/fox-xyz-waUvqaAACr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI SPORT
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", SIARAN ULANG BELANDA VS MAROKO
-https://cdn.honixa3689.qzz.io/live/93570ea2-f7d2-441d-af3a-cbba3b4f02a5/vod.m3u8
+https://img.refooty.com/m3u8/14593-gdZvm.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", SIARAN ULANG JERMAN VS PARAGUAY
-https://cdn.honixa3689.qzz.io/live/671538a9-53d7-444b-a403-84e538350fb0/vod.m3u8
+https://img.refooty.com/m3u8/14584-OmC4o.m3u8
 
 
 
