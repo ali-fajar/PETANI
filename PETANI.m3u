@@ -830,6 +830,7 @@ https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="TIMNAS", INDONESIA VS MALAYSIA U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783182594~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=f6e43a2f0f93080fcdc2fce9dc8ccf883b58f2e795db9982a279d76a5a80381ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21593%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=fea172a6bfb10ddd2890c2bac95be4055a7032e6f4f646ce267110dfd996b259
@@ -862,11 +863,12 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/V2QCJ_ES_-Wl4tOD9LYMJfeMIuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132027/3b10d9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", KAMBOJA VS INDONESIA
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/V2QCJ_ES_-Wl4tOD9LYMJfeMIuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132027/3b10d9.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e5fe8071c08c31412d862399259f61b:d5db30367095916cd1f2c169130d9eb0
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21633/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1781357933~acl=%2fstream%2f21633%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=86fdecb08b680c2780ea65d24a831f6dca24fb568dea0af842064a3ed8d5e3d6
+#KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783182594~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=f6e43a2f0f93080fcdc2fce9dc8ccf883b58f2e795db9982a279d76a5a80381f
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
