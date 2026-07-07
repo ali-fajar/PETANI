@@ -612,7 +612,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uccm5r1782983934.jpg/medium" group-title="PIALA DUNIA", USA VS BRLGIA 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2swkia1783166926.jpg/medium" group-title="PIALA DUNIA", SWISS VS KOLOMBIA 1
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -658,13 +658,13 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
 #EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b6sdmo1782634401.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] KOLOMBIA VS GHANA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
 
 #EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 1 Perancis vs Swedia
