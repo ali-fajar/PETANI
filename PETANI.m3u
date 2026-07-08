@@ -589,9 +589,9 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/08mivj1783166773.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS MESIR TSN
+#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO TSN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -599,20 +599,20 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/08mivj1783166773.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS MESIR FOX
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO FOX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2swkia1783166926.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SWISS VS KOLOMBIA FOX26
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO FOX26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2swkia1783166926.jpg/medium" group-title="PIALA DUNIA", SWISS VS KOLOMBIA 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 1
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -802,14 +802,14 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/fox-xyz-waUvqaAACr.m3u8
+#https://inproviszon.st/fox-xyz-waUvqaAACr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI SPORT
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
+#https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yn9w78mqyxriz2ajrkss.png", SIARAN ULANG BELANDA VS MAROKO
 #https://img.refooty.com/m3u8/14593-gdZvm.m3u8
