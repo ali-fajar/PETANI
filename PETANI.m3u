@@ -585,11 +585,11 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/08mivj1783166773.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS MESIR PV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO PV
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO TSN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -615,12 +615,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 
 
 #EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 1
-#EXTVLCOPT:http-referrer=https://instream.click/
-#EXTVLCOPT:http-origin=https://instream.click
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+https://pacquiao.inproviszon.st/itv-xyz-waUvqaAAC.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS VERDE 2
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
