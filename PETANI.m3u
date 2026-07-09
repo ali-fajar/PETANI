@@ -591,6 +591,13 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO SBS
+#EXTVLCOPT:http-referrer=https://xys1-2-player.pages.dev
+#EXTVLCOPT:http-origin=https://xys1-2-player.pages.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://kangguru2.hbx4.workers.dev/https://i.mjh.nz/.r/sbs-sbst.m3u8
+
+
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO TSN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
