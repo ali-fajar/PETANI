@@ -804,7 +804,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://inproviszon.st/fox-xyz-waUvqaAACr.m3u8
+http://157.15.187.3:25092/hls/63/63.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="PIALA DUNIA", TVRI SPORT
