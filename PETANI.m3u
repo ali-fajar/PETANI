@@ -689,9 +689,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 #https://obstreamx.click/live/esx51jdn9y.m3u8
 
 
-#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8r7yo11655540169.png" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
+#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png/tiny" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TVP POLANDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png/tiny" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -706,14 +707,15 @@ http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31599/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 #https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
 
 
 #EXTINF:-1 tvg-chno="56" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="PIALA DUNIA",FOX SPORTS 1
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pacquiao.inproviszon.st/fs1-xyz-waUvqaAACr.m3u88
+#https://pacquiao.inproviszon.st/fs1-xyz-waUvqaAACr.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 
 #EXTINF:-1 tvg-chno="57" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="PIALA DUNIA",FOX SPORTS 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
@@ -729,7 +731,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+#https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 
 #EXTINF:-1 tvg-chno="141" tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="PIALA DUNIA",TSN4
 #KODIPROP:inputstream=inputstream.adaptive
