@@ -592,10 +592,10 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 https://pacquiao.inproviszon.st/fox-usa.m3u8
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO SBS
-#EXTVLCOPT:http-referrer=https://xys1-2-player.pages.dev
-#EXTVLCOPT:http-origin=https://xys1-2-player.pages.dev
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://kangguru2.hbx4.workers.dev/https://i.mjh.nz/.r/sbs-sbst.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO TSN
@@ -622,16 +622,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 
 
 #EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 1
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
-#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pacquiao.inproviszon.st/itv-xyz-waUvqaAAC.m3u8
+https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 2
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
+https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 
 #EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR CAM2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
@@ -651,13 +651,13 @@ https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://obstreamx.click/live/yq97gcrutx.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] AUSTRALIA VS MESIR SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS MAROKO SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] ARGENTINA VS VERDE HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS MAROKO HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
