@@ -429,21 +429,7 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="TIMNAS", Indonesia vs Bulgaria (V1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20992.drm?dev_kaki_09&t=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&h=8ca723e5eb48462632d05371c705132b0460b22af42f9bc1d5cae54b001f3985
-#https://vid-zero-gelang.disini.workers.dev/20992.mpd?dev_kaki_09&t=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&h=8ca723e5eb48462632d05371c705132b0460b22af42f9bc1d5cae54b001f3985
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="TIMNAS", Final: Indonesia vs Bulgaria (V2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://zeroxxxvid.disini.workers.dev/20992.drm?exp=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&sign=9b6ac4a58071a530ea87257d4d7a9307294b80178cbd7db9842e946ac1205459
-#https://zeroxxxvid.disini.workers.dev/20992.mpd?exp=1774882944&uip=2a06%3A98c0%3A3600%3A%3A103&sign=4b84fa7d952e788507ea2bee39602783283f07286d1057dd1c1792924da3711d
 
 
 
@@ -591,11 +577,6 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://admin2.uniteesports.com/tsn.m3u8
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS MAROKO MEWATCH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63bcb2ae029b3af3bab113950aa972dd:49ef2d7ef95fd3328f1ede9eecde6c58
-#https://lion.hbx10.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE4MC4yNDcuNS4yMTciLCJleHAiOjE3ODM2Mjg2ODN9.lxTUNo9hAkqj0BJrlasIW2QkOSItZDQZBHukrpvSrgk/out/v1/mwlsmpn01/ll_wc_ch01/ll_wc_ch01_cmaf_dash01/cmafdash1s.mpd
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/e0awtb1783410723.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", SPANYOL VS BELGIA
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
@@ -633,67 +614,26 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://admin.formaturamaxi.com.br/foxalt.m3u8
 
-#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS MAROKO 2
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/e0awtb1783410723.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS BELGIA 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 http://103.165.93.31:8095/tsports/video.m3u8
 
-#EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR CAM2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.camel1.live
-#EXTVLCOPT:http-referrer=https://www.camel1.live/
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR HD
-#EXTVLCOPT:http-referrer=https://instream.click/
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="151" tvg-id="CIGNAL 2" tvg-name="[FIFA World Cup 2026] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg/medium" group-title="PIALA DUNIA", PORTUGAL VS KROASIA 2
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://obstreamx.click/live/yq97gcrutx.m3u8
-
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS MAROKO SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] NORWEY VS INGGRIS SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pkil31783237187.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] PERANCIS VS MAROKO HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] NORWEY VS INGGRIS HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vlynac1782634402.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup]  SWISS VS ALJAZAIR SD
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
-
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b6sdmo1782634401.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] KOLOMBIA VS GHANA HD
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
-
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rbkld21782546620.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 1 Perancis vs Swedia
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=yq97gcrutx
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=yq97gcrutx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://obstreamx.click/live/yq97gcrutx.m3u8
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="PIALA DUNIA",FIFA World Cup English Feed 2 Mexico vs Ekuador
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#https://obstreamx.click/live/esx51jdn9y.m3u8
 
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png/tiny" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", TSN 3
@@ -706,7 +646,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31599/index.m3u8
+#http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/31599/index.m3u8
 
 #EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PIALA DUNIA",CIGNAL TV
 #KODIPROP:inputstream=inputstream.adaptive
