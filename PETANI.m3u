@@ -637,7 +637,8 @@ https://admin.formaturamaxi.com.br/foxalt.m3u8
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+#https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 tvg-id="FEED CAMEL" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg/medium" group-title="PIALA DUNIA", AUSTRALIA VS MESIR CAM2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
