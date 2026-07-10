@@ -591,21 +591,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", NORWEGIA VS INGGRIS FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS SWISS FOX26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS SWISS 1
@@ -672,7 +672,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="PIALA DUNIA",TSN1
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
@@ -686,7 +686,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Sporza_logo.png", SPORZA
