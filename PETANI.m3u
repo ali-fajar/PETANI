@@ -571,21 +571,21 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS SWISS PV
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS SPANYOL PV
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://103.165.93.31:8095/tsports/video.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS SWISS
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS SPANYOL
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
 
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS SWISS TSN
+#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SPANYOL TSN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -594,7 +594,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h00wfo1783322757.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS SWISS FOX
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS SPANYOL FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
