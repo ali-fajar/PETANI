@@ -601,20 +601,21 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS SWISS FOX26
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS VS ARGENTINA FOX26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS SWISS 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA 1
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://admin.formaturamaxi.com.br/foxalt.m3u8
+#https://admin.formaturamaxi.com.br/foxalt.m3u8
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
-#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA", ARGENTINA VS SWISS 2
+#EXTINF:-1 tvg-id="TSPORT" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -622,13 +623,13 @@ https://admin.formaturamaxi.com.br/foxalt.m3u8
 http://103.165.93.31:8095/tsports/video.m3u8
 
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] ARGENTINA VS SWISS SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] INGGRIS VS ARGENTINA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/egw53q1783490092.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] ARGENTINA VS SWISS HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] INGGRIS VS ARGENTINA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
