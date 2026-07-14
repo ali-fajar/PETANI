@@ -592,6 +592,13 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 #https://admin.formaturamaxi.com.br/foxalt.m3u8
 https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SPANYOL CIGNAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SPANYOL TSN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
