@@ -69,7 +69,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
@@ -78,7 +78,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/30/Trans-7-1341636338.jpeg" group-title="NASIONAL", Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/res=720p/file/stream.mpd?hdntl=exp=1782446284~acl=%2fstream%2f734%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f734%2ffile%2f*%2faac%2f*!%2fstream%2f734%2ffile%2f*%2f*-720p%2f*!%2fstream%2f734%2ffile%2f*%2f*-480p%2f*!%2fstream%2f734%2ffile%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=4162de0d05ad7ec319c8e2f90378d32777084c2d6927b6a5b059b48e00210b5c
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/res=720p/file/stream.mpd?hdntl=exp=1782446284~acl=%2fstream%2f734%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f734%2ffile%2f*%2faac%2f*!%2fstream%2f734%2ffile%2f*%2f*-720p%2f*!%2fstream%2f734%2ffile%2f*%2f*-480p%2f*!%2fstream%2f734%2ffile%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=4162de0d05ad7ec319c8e2f90378d32777084c2d6927b6a5b059b48e00210b5c
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 
 #KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
