@@ -593,10 +593,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
 #EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SPANYOL FX
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
-#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-referrer=https://streamx-hd.com/
+#EXTVLCOPT:http-origin=https://streamx-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/ebcfca370ae02d6942bd3cd232969f05df8eebfb30d635043d71923e4552e25c/1784056494/fox-usa.m3u8
+https://khala.skylivehd.com/peacock1/tracks-v1a1/mono.m3u8?ip=180.247.5.153&token=263535cb9504be8f26c46c826d6dd507bef1b445-f1-1784103046-1784049046
 
 
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="PIALA DUNIA", PERANCIS VS SPANYOL TSN
