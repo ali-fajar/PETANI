@@ -572,10 +572,10 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS VS ARGENTINA UN8
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
-#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://103.151.61.12/tv.bdixbd.net/video.m3u8
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS ARGENTINA
