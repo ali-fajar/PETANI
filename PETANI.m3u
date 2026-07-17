@@ -574,27 +574,27 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 ========================================FIFA WORLD CUP==========================================================
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS VS ARGENTINA UN8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PRANCIS VS INGGRUS UN8
 #EXTVLCOPT:http-referrer=https://streame.center/
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS ARGENTINA
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PRANCIS VS INGGRIS
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA ONTV
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA", PRANCIS VS INGGRIS ONTV
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 
-#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA FX
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA", PRANCIS VS INGGRIS FX
 #EXTVLCOPT:http-referrer=https://streamx-hd.com/
 #EXTVLCOPT:http-origin=https://streamx-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -602,7 +602,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun2&type=m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 
 
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA TSN
+#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA", PRANCIS VS INGGRIS TSN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -611,7 +611,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", INGGRIS VS ARGENTINA FOX
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="PIALA DUNIA" tvg-id="001" tvg-name="016-LABURATV", PRANCIS VS INGGRIS FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
@@ -625,7 +625,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA 1
+#EXTINF:-1 tvg-id="FOX 11" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hjwduc1784180544.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS ARGENTINA 1
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -633,20 +633,20 @@ https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_24
 
 
 
-#EXTINF:-1 tvg-id="TSPORT" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA", INGGRIS VS ARGENTINA 2
+#EXTINF:-1 tvg-id="TSPORT" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hjwduc1784180544.jpg/medium" group-title="PIALA DUNIA", SPANYOL VS ARGENTINA 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 
 
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] INGGRIS VS ARGENTINA SD
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hjwduc1784180544.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS ARGENTINA SD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=pildun1&type=m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] INGGRIS VS ARGENTINA HD
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] " tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hjwduc1784180544.jpg/medium" group-title="PIALA DUNIA",[FIFA World Cup] SPANYOL VS ARGENTINA HD
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 #EXTVLCOPT:http-origin=https://www.soccertvhd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
