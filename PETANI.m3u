@@ -89,7 +89,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/res=720p/file/stream.mpd?hdntl=exp=1782446284~acl=%2fstream%2f734%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f734%2ffile%2f*%2faac%2f*!%2fstream%2f734%2ffile%2f*%2f*-720p%2f*!%2fstream%2f734%2ffile%2f*%2f*-480p%2f*!%2fstream%2f734%2ffile%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=4162de0d05ad7ec319c8e2f90378d32777084c2d6927b6a5b059b48e00210b5c
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 
-#KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -121,6 +123,8 @@ https://d3dlxh2qgfbmej.cloudfront.net/live-out/14268d4d7a1c76c3f806d316fba6c56fd
 https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -141,6 +145,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://statik.tempo.co/data/2013/01/31/id_164912/164912_650.jpg" group-title="NASIONAL", METRO TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
