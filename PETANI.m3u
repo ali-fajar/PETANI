@@ -834,7 +834,7 @@ http://157.15.187.3:25092/hls/63/63.m3u8
 EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg", TIMNAS FIFA 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -868,15 +868,15 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720
 EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://mmc.tirto.id/image/otf/398x0/2026/05/05/afc-u17-asian-cup_ratio-16x9.jpg", INDONESIA VS CHINA U17
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="SS2" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024", AFF HYUNDAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
@@ -7286,11 +7286,11 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 https://f7ccf7fc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/54dd5f7e-8a3e-48e0-a3e0-55c4a3d5af39/3.m3u8
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-name="" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png" group-title="SPORTS", FIGHT SPORTS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 
 
@@ -7926,10 +7926,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", SPORTSTARS 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="SPORTS", SPORTSTARS 3
@@ -7942,11 +7942,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS", SPORTSTARS 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
