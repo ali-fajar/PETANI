@@ -955,6 +955,15 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
+#EXTINF:-1 group-title="TIMNAS" tvg-id="GTV+" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024",INEWS+
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
+
 #EXTINF:-1  tvg-id="576059" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024" group-title="TIMNAS", AFF 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
