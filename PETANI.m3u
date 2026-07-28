@@ -266,6 +266,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+https://iptv.lancartech.co.id:443/live/bombom/full/128.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="NASIONAL",TVRI Nasional
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -276,15 +277,16 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-https://iptv.lancartech.co.id:443/live/bombom/full/128.m3u8
+https://iptv.lancartech.co.id:443/live/bombom/full/127.m3u8
 
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",Life & Style
+#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://thumbor.prod.vidiocdn.com/cYjrKEVUBEgNSFGp-F_QtnYVUXE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg", CITRA MUSLIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+https://iptv.lancartech.co.id:443/live/bombom/full/129.m3u8
 
 #EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg",Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+https://iptv.lancartech.co.id:443/live/bombom/full/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="NASIONAL",Asian Food Network
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
