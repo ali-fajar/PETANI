@@ -7292,17 +7292,17 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c6bsS0B/ksa1.png" group-title="SPORTS" , KSA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba
-https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CPGxWLX/ksa2.png" group-title="SPORTS" , KSA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0
-https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/L9rYXN9/ksa3.png" group-title="SPORTS" , KSA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b
-https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kuwait Sport HD.ps" tvg-logo="https://i.ibb.co.com/vCJkd04n/kwtsport.png" group-title="SPORTS", KUWAIT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7340,17 +7340,17 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS", HUB PRE1
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
+#https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS", HUB PRE2
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
+#https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="SPORTS", HUB PRE3
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
+#https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Ktv sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5k1C9ufH531IJYpz5uVdXAdT6L17SBBbkA&s", KTV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+#https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6PJLKztFr1dwnlCZ_00qtVZdlFbciEm7RYe3_2nDxcVmwD3snBitqROA&s=10", MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -7474,58 +7474,58 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="SPORTS" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_640_360.png",ON Sports HD (VTVPrime)
+#EXTINF:-1 tvg-id="foxsports1" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ec5xf51707916511.png", FOX SPORTS 1 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
-#https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-https://liveh12byt.vtvprime.vn/hls/THETHAO_HD/03.m3u8
+#KODIPROP:inputstream.adaptive.license_key=ce5f0570b7f89e2efe19c7bf3c77dae7:d17fdbc7f72e68adf298b71d935864ba
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="SPORTS" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+ HD (VTV Prime)
+#EXTINF:-1 tvg-id="onsportsplus" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d96btm1707916453.png", FOX SPORTS 2 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-#https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-https://liveh12byt.vtvprime.vn/hls/HAY_TV/03.m3u8
+#KODIPROP:inputstream.adaptive.license_key=922eaebf57397ebf2656cbf71ae4775f:3014cf17de69d8f916a83cbf6b4aec94
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports2_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="onfootball" group-title="SPORTS" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png",ON Football HD (VTV Prime)
+#EXTINF:-1 tvg-id="onfootball" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png", FOX SPORTS 3 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
-#https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
-https://liveh12byt.vtvprime.vn/hls/BONGDA_HD/03.m3u8
+#KODIPROP:inputstream.adaptive.license_key=ee0ff8714c8f96a448eae5c9b796c889:d7c1e6b0d11ba5051096bb34779c6efb
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports3_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="vtvcantho" group-title="SPORTS" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png",VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtvcantho" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png", DIRECT SPORT 1 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#https://livevlisctcdnw.seenow.vn/livesnv2/VTV6_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a5e4bb046f274791c52cd4b73956b82e:ae51f5539228fcdf04fa13f4bdd8b7b3
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="SPORTS" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png",On Golf HD (VTV Prime)
+
+#EXTINF:-1 tvg-id="ongolf" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png", DIRECT SPORT 2 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
-#https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=:35eead5c196a017344cd7d3052e1fbb1:746bddf74e86949660be83a83ffe9d20
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports2_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (VTV Prime)
+
+#EXTINF:-1 tvg-id="tyc sport" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png", TYC SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=197ca823ac5f4e48573f9f87113c7d7a:c30eefbf2e79a97b0340e0877f4cdbf5
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (VTV Prime)
+
+#EXTINF:-1 tvg-id="tnt arg" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1asjjb1605773962.png", TNT ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f7d41f94c41a5943cd836a52a59b7ebc:de0cb81e4146240f61281db5bf0d0ade
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JpjtKep.png" group-title="SPORTS" , Peacock PL
