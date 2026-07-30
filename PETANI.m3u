@@ -6856,6 +6856,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://iptv.lancartech.co.id:443/live/bombom/full/83279.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6864,6 +6865,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://iptv.lancartech.co.id:443/live/bombom/full/83280.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6872,15 +6874,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://iptv.lancartech.co.id:443/live/bombom/full/83281.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 MY
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 MENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-#https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6123/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 MY
@@ -6891,28 +6890,22 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
 #https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 MY
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 MENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-#https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd!
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6124/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bein 1 eng" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png" group-title="SPORTS" , BEIN 1 ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://bintangstreaming.my.id/forsat23/pro.php?id=61
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/49727.ts
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkRUR3hOTjNiaVZoQW12OGxDVGRWTkhIdUxrNW1tV3REM2ZXbQ/master.m3u8
+https://zona593movie.com:8443/456truenos654/987parlante123/1059346
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Gor-cwCiKEDxQBSJYjR9wFuQD8ic2ugdDwCEG2dfgWdP2jeCkxmxzM&s=10" group-title="SPORTS" , BEIN SPORTS XTRA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31048/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="SPORTS" , BEIN SPORTS XTRA En Español 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/30015/index.m3u8
 
 #EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/beinsports1.png" group-title="SPORTS", BeIN Sports TR 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
@@ -7000,6 +6993,7 @@ https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+https://zona593movie.com:8443/Vdray467/ctG6yqNagJ/437296
 
 
 
@@ -7007,16 +7001,16 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="Dazn Combet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ryAEp2wuorIzGhGIMdQwa5h9m6aAa4YAalMYLxs8f4C6ne0nGtWtA8h3&s=10" group-title="SPORTS" , DAZN COMBET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/cb543d1f7a6c6c8e84cb3b67cef342a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7554db80148b61299bce8c37683f03409a5e5afba358b1ebb70f4d8c68a8e24855977c11e79f43c8821ca689860a9c5e8623a3119f90f98b87418181f31d93758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1df2f9f418de1ade61157db60f82fe454aa12ca69c7812ee0919b952e602aadc5144a32a3eda984fc0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad089406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8eae9be6a1b359d2b080f26afc986fb3cca650da25458f99e6bf575f/96/640x360_792000/index.m3u8
+#https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/cb543d1f7a6c6c8e84cb3b67cef342a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7554db80148b61299bce8c37683f03409a5e5afba358b1ebb70f4d8c68a8e24855977c11e79f43c8821ca689860a9c5e8623a3119f90f98b87418181f31d93758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1df2f9f418de1ade61157db60f82fe454aa12ca69c7812ee0919b952e602aadc5144a32a3eda984fc0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad089406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8eae9be6a1b359d2b080f26afc986fb3cca650da25458f99e6bf575f/96/640x360_792000/index.m3u8
 
 #EXTINF:-1 tvg-id="Dazn Combet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuDBNgGJaiqdyXMP4UKJ13AhPybAE5xfeIeqi4jRm26SMKkK-KvbvV0c6&s=10" group-title="SPORTS" , DAZN WOMENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
+#https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="SPORTS" , DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7247,16 +7241,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzB_fLNkZya2PLZqi119SUf7Dl_NYmGLHOvQ&s", FOX SOCCER PLUS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium756
-#https://bintangstreaming.my.id/forsat23/pro.php?id=756
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdUNTanpOdHpheUJzZTNMSjdxeEhNdEVCZG5IRWdYRlV0U2EyN2dBPT0/master.m3u8
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png", FOX SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium39
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8
+https://iptv.lancartech.co.id:443/live/bombom/full/83277.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgheq-04s4Hz1zdSSIP_nkgwEPlg3KNJSjoEgPZ_mIpvapO4qDaGvlJ4&s=10", FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7264,13 +7253,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+https://iptv.lancartech.co.id:443/live/bombom/full/83278.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png", FOX DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8
+#https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SPORTS", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
