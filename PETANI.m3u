@@ -962,7 +962,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785521339~hmac=db6a59a7203e1a16b75dd7fc21be7af34d78b1e9a6615a31ce2e48cd531a149f
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="GTV+" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024",GTV+
 #EXTVLCOPT:http-user-agent=android-R+
