@@ -60,7 +60,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
+#https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NASIONAL",SCTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
