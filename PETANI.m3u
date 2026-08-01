@@ -114,7 +114,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+https://iptv.lancartech.co.id:443/live/bombom/full/1.m3u8
 
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnsJ8qTMpStOBT6OBz7XpoL8VahdVzHuJnwxc8cBXL33uVzrWiUbVONND&s=10" group-title="NASIONAL", RTV 
