@@ -4623,12 +4623,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68587f789fe0188421147c760f4/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.252" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df2bdc3d-9bc6-43ca-a4e6-2002d47fdac1.jpg" group-title="TRANSVISION", Football TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-#https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/  Rm9vdGJhbGwgVFY/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.261" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0d652a6e-a7c8-4561-8ea8-c9f37acfd9a4.png" group-title="TRANSVISION", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -4663,12 +4661,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68587f789fe018842114
 #https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/bXlCQ0FKYXZhSmF6ekZlc3RpdmFsMjAyNi1NYWxpcSZEJ0Vzc2VudGlhbHM/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.256" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/65030d16-c4fc-4c89-9b03-1b809797964f.jpg" group-title="TRANSVISION", Fight TV Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9fab699052464e1fb80edbf4c3172d49:898ef56c4582437183d430c4f3f24088
-#https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/RmlnaHQgVFYgUHJlbWl1bQ/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.281" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3974fd33-9c3a-44b2-acdb-66c90f9492e5.jpg" group-title="TRANSVISION", Song TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -4846,12 +4842,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 #https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/WHRyZW0gU3BvcnRz/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.200" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/a445911e-df40-413d-b4d5-59cff4b342cc.png" group-title="TRANSVISION", Khazanah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-#https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/S2hhemFuYWg/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.253" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f974ea07-54bf-4463-854a-fbbe51a70cc3.jpg" group-title="TRANSVISION", Sports TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -4886,12 +4880,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 #https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/REVOUyBGb29kIENoYW5uZWw/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.249" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg" group-title="TRANSVISION", Cartoon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-#https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2FydG9vbiBUVg/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.212" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="TRANSVISION", CNN Indonesia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -4978,20 +4970,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe0188421
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.248" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg" group-title="TRANSVISION", Cartoon TV Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-#https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.186" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png" group-title="TRANSVISION", Dunia Anak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-#https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/RHVuaWEgQW5haw/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID.277" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dcbc4bc6-19c3-4719-9ee7-587aa3edffea.jpg" group-title="TRANSVISION", Gaming TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
