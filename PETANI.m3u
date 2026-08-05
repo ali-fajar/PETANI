@@ -131,6 +131,11 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
+#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="NASIONAL", MDTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://liveloveyou.my.id/utama/id/mdtvnow.php/.m3u8
+
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/180/438180-SNAPSHOT-l.png", JTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
