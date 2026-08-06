@@ -33,7 +33,7 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=2
 https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1785986167&k=0fdec973189a0c55eb326b4e3a54f128712f94c136d9ebfd37a6c6ad1001703a&sc=205
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR HD
+#EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR HD
 https://iptv.lancartech.co.id:443/live/bombom/full/11.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
