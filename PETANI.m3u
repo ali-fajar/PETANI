@@ -29,13 +29,12 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvtiga.workers.dev/index.mpd?q=205&ext=drm&x=1785952193&k=3e9971d712369fbd1e319db2a92c5c93120dd6d63a5d6eee79bed37e070aecc2
-#https://vididi.bonetvtiga.workers.dev/index.mpd?q=205&ext=dash&x=1785952193&k=c55bad33d9824bf23b99294e83ee7249f04f78373ab98f62fd250c5ae3a10c58&sc=205
-https://iptv.lancartech.co.id:443/live/bombom/full/11.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1785986167&k=b54e57af14ee5e8240464c18c50fb165558ecf945d5fa30cdffc672d5ccd0a4c
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1785986167&k=0fdec973189a0c55eb326b4e3a54f128712f94c136d9ebfd37a6c6ad1001703a&sc=205
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR INDI
-#https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR HD
+https://iptv.lancartech.co.id:443/live/bombom/full/11.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
@@ -72,8 +71,8 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvtiga.workers.dev/index.mpd?q=204&ext=drm&x=1785952193&k=ab2785563a44fe43bb0d6db4cab48f52869181bf27bd17a717d3ce55288b9199
-https://vididi.bonetvtiga.workers.dev/index.mpd?q=204&ext=dash&x=1785952193&k=b192b7b1350df59c180636a70b9a4dafc2e5beeef2a6b9a2dbf0bf62eefcaa08&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=drm&x=1785986167&k=f6c6079a3d2e547be4ba4e07084298eea1df1ccbfac4e6528f5274a2ee969974
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=204&ext=dash&x=1785986167&k=d15f684568a07e58cb178a4132ac98bfa2c2378e3ec64d2f8caf9243f53394a3&sc=204
 
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
